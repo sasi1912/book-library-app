@@ -1,0 +1,19 @@
+.input-field {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  .mb-3 {
+    width: 30vw;
+    height: 5vh;
+}
+.button {
+    background-color: blue;
+    color: aliceblue;
+    width: fit-content;
+    justify-content: center;
+    border: 0;
+    width: 20vw;
+    height: 5vh;
+    margin-top: 50px;
+    margin-left: 7vw;
+  }
